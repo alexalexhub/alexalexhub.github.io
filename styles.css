@@ -300,6 +300,10 @@ section {
     text-align: center;
   }
 
+  .intro-text p:nth-child(4) {
+    word-break: break-all;
+  }
+
   .intro-image {
     width: 100%;
   }
